@@ -1,2 +1,2 @@
-# DataStructure_for_DataScie
+# DataStructure for DataScience
 Datastructure for data science
