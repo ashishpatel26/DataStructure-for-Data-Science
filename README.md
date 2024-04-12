@@ -1,8 +1,8 @@
-# Data Structure for Data Science
+# Data Structure for Data Science : [![Download](https://img.shields.io/badge/Download-Data_Structure_Guide-blue.svg)](https://raw.githubusercontent.com/ashishpatel26/DataStructure-for-Data-Science/main/Data%20Structure%20Guide%20for%20Data%20Scientist.pdf) 
 | ![](images/Outlin1.png) | ![](images/Outlin2.png) |
 | ----------------------- | ----------------------- |
 
-**Book Outline:**
+**Book Outline:** 
 ---
 **Chapter 1: Introduction to Data Structures in Python**
 
